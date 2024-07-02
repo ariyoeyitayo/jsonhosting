@@ -1,0 +1,178 @@
+[
+  {
+    "id": "1",
+    "firstName": "Ariyo",
+    "lastName": "Eyitayo",
+    "age": 14,
+    "devStatus": "Full-Stack Developer",
+    "location": "Jos, Plateau State, Nigeria",
+    "rate": 25,
+    "img": {
+      "url": "https://picsum.photos/id/11/200/200"
+    },
+    "longBio":
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias natus voluptatibus nostrum mollitia nobis minima, sunt similique rerum tempora. Sit repudiandae reprehenderit vel quidem quo impedit accusantium et reiciendis quae.",
+    "shortBio": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias natus voluptatibus nostrum...",
+    "phone": "+234 816 993 2832",
+    "socialLinks": {
+      "link1": "https://www.instagram.com/ariyoeyitayo",
+      "link2": "https://www.facebook.com/ariyoeyitayo",
+      "link3": "https://www.github.com/ariyoeyitayo",
+      "link4": "https://www.linkedin.com/ariyoeyitayo"
+    }
+  },
+  {
+    "id": "2",
+    "firstName": "Precious",
+    "lastName": "Kayili",
+    "age": 17,
+    "devStatus": "Software Engineer",
+    "location": "Jos, Plateau State, Nigeria",
+    "rate": 45,
+    "img": {
+      "url": "https://picsum.photos/id/12/200/200"
+    },
+        "longBio":
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias natus voluptatibus nostrum mollitia nobis minima, sunt similique rerum tempora. Sit repudiandae reprehenderit vel quidem quo impedit accusantium et reiciendis quae.",
+    "shortBio": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias natus voluptatibus nostrum...",
+    "phone": "+234 816 993 2832",
+    "socialLinks": {
+      "link1": "https://www.instagram.com/preciouskayili",
+      "link2": "https://www.facebook.com/preciouskayili",
+      "link3": "https://www.github.com/preciouskayili",
+      "link4": "https://www.linkedin.com/preciouskayili"
+    }
+  },
+  {
+    "id": "3",
+    "firstName": "Salem",
+    "lastName": "Kinrin",
+    "age": 14,
+    "devStatus": "Full-Stack Developer",
+    "location": "Jos, Plateau State, Nigeria",
+    "rate": 22,
+    "img": {
+      "url": "https://picsum.photos/id/13/200/200"
+    },
+        "longBio":
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias natus voluptatibus nostrum mollitia nobis minima, sunt similique rerum tempora. Sit repudiandae reprehenderit vel quidem quo impedit accusantium et reiciendis quae.",
+    "shortBio": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias natus voluptatibus nostrum...",
+    "phone": "+234 816 993 2832",
+    "socialLinks": {
+      "link1": "https://www.instagram.com/kinrinsalem",
+      "link2": "https://www.facebook.com/kinrinsalem",
+      "link3": "https://www.github.com/kinrinsalem",
+      "link4": "https://www.linkedin.com/kinrinsalem"
+    }
+  },
+  {
+    "id": "4",
+    "firstName": "Kim",
+    "lastName": "Tsok",
+    "age": 14,
+    "devStatus": "Game Developer",
+    "location": "Jos, Plateau State, Nigeria",
+    "rate": 29,
+    "img": {
+      "url": "https://picsum.photos/id/14/200/200"
+    },
+        "longBio":
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias natus voluptatibus nostrum mollitia nobis minima, sunt similique rerum tempora. Sit repudiandae reprehenderit vel quidem quo impedit accusantium et reiciendis quae.",
+    "shortBio": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias natus voluptatibus nostrum...",
+    "phone": "+234 816 993 2832",
+    "socialLinks": {
+      "link1": "https://www.instagram.com/kimtsok",
+      "link2": "https://www.facebook.com/kimtsok",
+      "link3": "https://www.github.com/kimtsok",
+      "link4": "https://www.linkedin.com/kimtsok"
+    }
+  },
+  {
+    "id": "5",
+    "firstName": "Seth",
+    "lastName": "Huzinga",
+    "age": 15,
+    "devStatus": "Frontend Developer",
+    "location": "Jos, Plateau State, Nigeria",
+    "rate": 15,
+    "img": {
+      "url": "https://picsum.photos/id/15/200/200"
+    },
+        "longBio":
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias natus voluptatibus nostrum mollitia nobis minima, sunt similique rerum tempora. Sit repudiandae reprehenderit vel quidem quo impedit accusantium et reiciendis quae.",
+    "shortBio": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias natus voluptatibus nostrum...",
+    "phone": "+234 816 993 2832",
+    "socialLinks": {
+      "link1": "https://www.instagram.com/sethhuizinga",
+      "link2": "https://www.facebook.com/sethhuizinga",
+      "link3": "https://www.github.com/sethhuizinga",
+      "link4": "https://www.linkedin.com/sethhuizinga"
+    }
+  },
+  {
+    "id": "6",
+    "firstName": "Zi Kim",
+    "lastName": "Yakubu",
+    "age": 14,
+    "devStatus": "Frontend Developer",
+    "location": "Jos, Plateau State, Nigeria",
+    "rate": 13,
+    "img": {
+      "url": "https://picsum.photos/id/16/200/200"
+    },
+        "longBio":
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias natus voluptatibus nostrum mollitia nobis minima, sunt similique rerum tempora. Sit repudiandae reprehenderit vel quidem quo impedit accusantium et reiciendis quae.",
+    "shortBio": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias natus voluptatibus nostrum...",
+    "phone": "+234 816 993 2832",
+    "socialLinks": {
+      "link1": "https://www.instagram.com/zikimyakubu",
+      "link2": "https://www.facebook.com/zikimyakubu",
+      "link3": "https://www.github.com/zikimyakubu",
+      "link4": "https://www.linkedin.com/zikimyakubu"
+    }
+  },
+  {
+    "id": "7",
+    "firstName": "Ariyo",
+    "lastName": "Eyitayo",
+    "age": 14,
+    "devStatus": "Full-Stack Developer",
+    "location": "Jos, Plateau State, Nigeria",
+    "rate": 25,
+    "img": {
+      "url": "https://picsum.photos/id/17/200/200"
+    },
+        "longBio":
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias natus voluptatibus nostrum mollitia nobis minima, sunt similique rerum tempora. Sit repudiandae reprehenderit vel quidem quo impedit accusantium et reiciendis quae.",
+    "shortBio": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias natus voluptatibus nostrum...",
+    "phone": "+234 816 993 2832",
+    "socialLinks": {
+      "link1": "https://www.instagram.com/ariyoeyitayo",
+      "link2": "https://www.facebook.com/ariyoeyitayo",
+      "link3": "https://www.github.com/ariyoeyitayo",
+      "link4": "https://www.linkedin.com/ariyoeyitayo"
+    }
+  },
+  {
+    "id": "8",
+    "firstName": "Samuel",
+    "lastName": "Yahaya",
+    "age": 13,
+    "devStatus": "Full-Stack Developer",
+    "location": "Jos, Plateau State, Nigeria",
+    "rate": 30,
+    "img": {
+      "url": "https://picsum.photos/id/18/200/200"
+    },
+        "longBio":
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias natus voluptatibus nostrum mollitia nobis minima, sunt similique rerum tempora. Sit repudiandae reprehenderit vel quidem quo impedit accusantium et reiciendis quae.",
+    "shortBio": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias natus voluptatibus nostrum...",
+    "phone": "+234 816 993 2832",
+    "socialLinks": {
+      "link1": "https://www.instagram.com/samuelurahyahaya",
+      "link2": "https://www.facebook.com/samuelurahyahaya",
+      "link3": "https://www.github.com/samuelurahyahaya",
+      "link4": "https://www.linkedin.com/samuelurahyahaya"
+    }
+  }
+]
